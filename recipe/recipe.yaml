@@ -112,3 +112,4 @@ about:
 extra:
   recipe-maintainers:
     - zklaus
+    - conda-forge/rocm-core
